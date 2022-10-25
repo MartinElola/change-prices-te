@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="servicios-snapshots" />
+      <option name="name" value="servicios-snapshots" />
+      <option name="url" value="http://repoversiones.osde.ar:8180/repository/osde-repositorios/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="http://repoversiones.osde.ar:8180/repository/osde-repositorios/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jitpack.io" />
+      <option name="name" value="jitpack.io" />
+      <option name="url" value="https://jitpack.io" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aplicaciones-releases" />
+      <option name="name" value="aplicaciones-releases" />
+      <option name="url" value="http://repoversiones.osde.ar:8180/repository/osde-repositorios/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="aplicaciones-snapshots" />
+      <option name="name" value="aplicaciones-snapshots" />
+      <option name="url" value="http://repoversiones.osde.ar:8180/repository/osde-repositorios/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="componentes-releases" />
+      <option name="name" value="componentes-releases" />
+      <option name="url" value="http://repoversiones.osde.ar:8180/repository/osde-repositorios/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="servicios-releases" />
+      <option name="name" value="servicios-releases" />
+      <option name="url" value="http://repoversiones.osde.ar:8180/repository/osde-repositorios/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="componentes-snapshots" />
+      <option name="name" value="componentes-snapshots" />
+      <option name="url" value="http://repoversiones.osde.ar:8180/repository/osde-repositorios/" />
+    </remote-repository>
+  </component>
+</project>
